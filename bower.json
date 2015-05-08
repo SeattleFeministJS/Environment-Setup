@@ -1,11 +1,9 @@
 {
-  "name": "environment-setup",
+  "name": "gulp-seed",
   "version": "0.0.0",
-  "homepage": "https://github.com/SeattleLadiesJS/Environment-Setup",
   "authors": [
-    "simplesthing <i.am.simplesthing@gmail.com>"
+    "Ava Collins <avacollins@comcast.net>"
   ],
-  "description": "General environment setup for creating web projects",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -13,5 +11,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "fontawesome": "~4.3.0",
+    "jquery": "~2.1.4",
+    "bootstrap-sass": "~3.3.4"
+  }
 }

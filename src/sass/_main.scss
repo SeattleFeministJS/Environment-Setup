@@ -1,0 +1,11 @@
+// Global Styles
+body {
+  width:100%;
+  height:100%;
+}
+
+.gulp-icon {
+  background: url($image-dir + 'gulp-tiny.png');
+  width:228px;
+  height:510px;
+}
