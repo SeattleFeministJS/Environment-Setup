@@ -1,0 +1,19 @@
+{
+  "name": "environment-setup",
+  "version": "1.0.0",
+  "description": "General environment setup for creating web projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeattleLadiesJS/Environment-Setup.git"
+  },
+  "author": "simplesthing <i.am.simplesthing@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeattleLadiesJS/Environment-Setup/issues"
+  },
+  "homepage": "https://github.com/SeattleLadiesJS/Environment-Setup#readme"
+}

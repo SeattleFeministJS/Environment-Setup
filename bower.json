@@ -1,0 +1,17 @@
+{
+  "name": "environment-setup",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SeattleLadiesJS/Environment-Setup",
+  "authors": [
+    "simplesthing <i.am.simplesthing@gmail.com>"
+  ],
+  "description": "General environment setup for creating web projects",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
